@@ -1,0 +1,29 @@
+{
+  "name": "zellcli",
+  "version": "0.0.1",
+  "description": "A commander CLI app",
+  "private": true,
+  "bin": {
+    "zellcli": "./bin/zellcli"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "author": {
+    "name": "charlenezell",
+    "email": "charlenezell@gmail.com",
+    "url": "https://github.com/charlenezell"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charlenezell/zellcli"
+  },
+  "license": "MIT",
+  "bugs": "https://github.com/charlenezell/zellcli/issues",
+  "dependencies": {
+    "commander": "~2.0.0",
+    "autocmdr": "~0.0.7"
+  },
+  "devDependencies": {
+  }
+}
