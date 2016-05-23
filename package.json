@@ -1,0 +1,26 @@
+{
+  "name": "zellcli",
+  "version": "1.0.0",
+  "description": "## Description",
+  "bin": {
+    "zellcli": "./bin/zellcli"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlenezell/zellcli.git"
+  },
+  "author": "zell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlenezell/zellcli/issues"
+  },
+  "homepage": "https://github.com/charlenezell/zellcli#readme"
+}
