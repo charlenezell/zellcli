@@ -1,0 +1,9 @@
+{
+  "name": "batchqrcodegenerator",
+  "dependencies": {
+    "async": "registry:npm/async#2.0.1+20160815105832"
+  },
+  "globalDependencies": {
+    "node": "registry:dt/node#6.0.0+20160823142437"
+  }
+}
